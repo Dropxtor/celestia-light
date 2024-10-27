@@ -28,6 +28,9 @@ Light nodes allow anyone to directly verify data availability and interact with 
     <img src="https://docs.celestia.org/img/nodes/LightNodes.png" width="700"/>
 </div>
 
+## Check Statut
+screen -r celestia-node
+
 ## How to Use?
 
 To use this script, run the following command in your terminal:
